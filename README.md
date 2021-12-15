@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hy-yash21
+- 👋 Hi, I’m Yash Aggarwal
 - 👀 I’m a Devops Engineer
 - 🌱 I’m currently pursuing B.E. in CSE from Chitkara University
 - 💞️ I’m looking to collaborate with a Devops Oragnisation
